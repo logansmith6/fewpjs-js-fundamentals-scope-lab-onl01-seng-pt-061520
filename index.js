@@ -1,6 +1,6 @@
 const animal = ""
 
-function myAnimal(string) {
+function myAnimal() {
   const animal = string;
   return animal;
 }
