@@ -1,7 +1,7 @@
 const animal = ""
 
 function myAnimal() {
-  const animal = string;
+  const animal = "";
   return animal;
 }
 myAnimal();
