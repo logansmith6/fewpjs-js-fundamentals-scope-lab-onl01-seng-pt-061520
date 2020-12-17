@@ -1,9 +1,8 @@
-let animal = ""
+const animal = ""
 
-function myAnimal(animal) {
-  let mammal = animal;
-  return mammal;
-  console.log(mammal)
+function myAnimal(string) {
+  const animal = string;
+  return animal;
 }
 myAnimal();
 function yourAnimal() {
