@@ -3,6 +3,7 @@ let animal = ""
 function myAnimal(animal) {
   let mammal = animal;
   return mammal;
+  console.log(mammal)
 }
 myAnimal();
 function yourAnimal() {
