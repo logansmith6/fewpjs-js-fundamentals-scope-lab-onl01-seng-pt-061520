@@ -1,8 +1,8 @@
 let animal = ""
 
-function myAnimal() {
+function myAnimal(animal) {
 
-  return myAnimal
+  return animal
 }
 
 function yourAnimal() {
