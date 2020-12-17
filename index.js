@@ -1,6 +1,7 @@
 let animal = ""
 
-function myAnimal() {
+function myAnimal(string) {
+  animal = string;
   return animal
 }
 
